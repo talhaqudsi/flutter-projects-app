@@ -92,7 +92,7 @@ class _AppsPageState extends State<AppsPage> {
             // Each entry within the TabBarView is a separate page
             tabs[0],
             tabs[1],
-            Icon(Icons.sunny, color: Colors.amber[800], size: 96),
+            tabs[2],
           ],
         ),
       ),
